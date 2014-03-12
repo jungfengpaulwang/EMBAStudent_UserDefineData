@@ -9,3 +9,13 @@ E:\TFServer2013\ischoolteam\ischool_EMBA\Student_UserDefineData\obj\Debug\Studen
 E:\TFServer2013\ischoolteam\ischool_EMBA\Student_UserDefineData\obj\Debug\Student_UserDefinedData.csproj.GenerateResource.Cache
 E:\TFServer2013\ischoolteam\ischool_EMBA\Student_UserDefineData\obj\Debug\EMBA.UserDefinedData.dll
 E:\TFServer2013\ischoolteam\ischool_EMBA\Student_UserDefineData\obj\Debug\EMBA.UserDefinedData.pdb
+E:\github\NTU_EMBA\Student_UserDefineData\bin\Debug\EMBA.UserDefinedData.dll
+E:\github\NTU_EMBA\Student_UserDefineData\bin\Debug\EMBA.UserDefinedData.pdb
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\Student_UserDefinedData.ImportExport.ExportStudentV2.resources
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\Student_UserDefinedData.ImportExport.ImportStudentV2.resources
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\EMBA.UserDefinedData.Properties.Resources.resources
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\Student_UserDefinedData.SetUserDefineDataForm.resources
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\Student_UserDefinedData.UserDefineDataItem.resources
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\Student_UserDefinedData.csproj.GenerateResource.Cache
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\EMBA.UserDefinedData.dll
+E:\github\NTU_EMBA\Student_UserDefineData\obj\Debug\EMBA.UserDefinedData.pdb
